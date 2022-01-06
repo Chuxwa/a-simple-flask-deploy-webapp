@@ -1,0 +1,7 @@
+Flask==1.1.1
+gevent==1.4.0
+h5py==3.1.0
+numpy==1.19.2
+Pillow==7.1.2
+tensorflow==2.5.0
+Werkzeug==0.16.0
