@@ -35,6 +35,7 @@ With **[Docker](https://www.docker.com)**, you can quickly build and run the ent
 # 1. First, clone the repo
 $ git clone git@github.com:Chuxwa/a-simple-flask-deploy-webapp.git
 $ cd keras-flask-deploy-webapp
+$ git submodule update --init --recursive
 
 # 2. Build Docker image
 $ docker build -t keras_flask_app .
@@ -53,6 +54,7 @@ It's easy to install and run it on your computer.
 # 1. First, clone the repo
 $ git clone git@github.com:Chuxwa/a-simple-flask-deploy-webapp.git
 $ cd keras-flask-deploy-webapp
+$ git submodule update --init --recursive
 
 # 2. Install Python packages
 $ pip install -r requirements.txt
