@@ -1,0 +1,3 @@
+[submodule "web_models"]
+	path = web_models
+	url = git@github.com:Chuxwa/Global-Wheat-Detection-using-Yolov5.git
