@@ -25,6 +25,6 @@ instance/
 # Custom data directory
 uploads/*
 models/*
-web_models/*
+# web_models/*
 
 !uploads/README.md
